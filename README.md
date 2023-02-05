@@ -1,2 +1,0 @@
-# Adin
-Valentine with Adin
